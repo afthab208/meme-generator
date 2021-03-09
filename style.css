@@ -1,0 +1,43 @@
+*{
+	font-family: 'Poppins';
+	background-image: url(https://media.discordapp.net/attachments/818343134752014368/818875021288144966/4fygshW3H8P7UAAAAASUVORK5CYII.png);
+	background-size: cover;
+	background-position: center;
+
+}
+
+input {
+	
+	border-radius: 25px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	background: #aeaea2;
+box-shadow:  20px 20px 60px #94948a,
+             -20px -20px 60px #c8c8ba;
+	}
+h1 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+img {
+	margin-left: auto;
+    margin-right: auto;
+     display: block;
+     border-radius: 20%;
+
+background: #e0e0e0;
+box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+button {
+	border-radius: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	background: #e5e5e0;
+box-shadow:  20px 20px 60px #c3c3be,
+             -20px -20px 60px #ffffff;
+}
